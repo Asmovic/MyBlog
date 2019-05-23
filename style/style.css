@@ -1,3 +1,10 @@
 form a {
     margin-left: 10px;
 }
+#cont {
+    background-image: url('/bird5.jpg');
+    background-size: cover;
+    padding: 10px;
+    padding-top: 20px;
+    scroll-padding-right: 20px;
+}
